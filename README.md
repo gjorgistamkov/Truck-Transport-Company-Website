@@ -48,14 +48,15 @@ The project presents DI‑VI Transport’s services and fleet with a clean, resp
      cd backend
      ```
   - Create `.env` with:
-```
-MONGODB_URI=mongodb://127.0.0.1:27017/divi_transport
-EMAIL_USER=your-email@example.com
-EMAIL_PASS=your-email-password
-EMAIL_HOST=smtp.example.com
-EMAIL_PORT=587
-```
+    ```
+    MONGODB_URI=mongodb://127.0.0.1:27017/divi_transport
+    EMAIL_USER=your-email@example.com
+    EMAIL_PASS=your-email-password
+    EMAIL_HOST=smtp.example.com
+    EMAIL_PORT=587
+    ```
 (Adjust host/port and auth based on your email provider.)
+
 3. **Install dependencies and run servers:**
 Backend:
 ```
