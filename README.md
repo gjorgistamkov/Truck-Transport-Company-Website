@@ -57,6 +57,7 @@ The project presents DI‑VI Transport’s services and fleet with a clean, resp
    (Adjust host/port and auth based on your email provider.)
 
 3. **Install dependencies and run servers:**
+   
     **Backend:**
     ```
     cd backend
@@ -71,7 +72,7 @@ The project presents DI‑VI Transport’s services and fleet with a clean, resp
     npm run dev
     ```
 
-4. **Open the app:**
+5. **Open the app:**
    - Frontend: http://localhost:5173
    - Backend: http://localhost:5000
 
