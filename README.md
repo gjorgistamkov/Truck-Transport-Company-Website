@@ -57,14 +57,14 @@ The project presents DI‑VI Transport’s services and fleet with a clean, resp
    (Adjust host/port and auth based on your email provider.)
 
 3. **Install dependencies and run servers:**
-    Backend:
+    **Backend:**
     ```
     cd backend
     npm install
     npm run dev
     ```
 
-    Frontend:
+    **Frontend:**
     ```
     cd frontend
     npm install
